@@ -1,6 +1,6 @@
 # Learnyist Content Drm Remover
 
-###Note: The Proprietary Drm Implementation of the site, which also includes the decryption functionality and the corresponding driver code has been removed to prevent violating any terms, license or policy of any calibre and the functionality of the POC is highly limited to comply with the same.
+##Note: The Proprietary Drm Implementation of the site, which also includes the decryption functionality and the corresponding driver code has been removed to prevent violating any terms, license or policy of any calibre and the functionality of the POC is highly limited to comply with the same.
 
 ## Working Process of Content Streaming in the site.
 1. The content for the streaming process is determined.
