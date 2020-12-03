@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="utf-8">
+    <title>Learnyist Decryptor</title>
+    <script src="js/decryptor.js"></script>
+
+    <style>
+        h1 {
+            text-align: center;
+            margin-bottom: 20px;
+        }
+        h3 {
+            margin-bottom: 5px;
+        }
+    </style>
+</head>
+<body>
+    <h1>Learnyist Decryptor v1</h1>
+    <h4>Enter the Video, Audio and encryptKey to download and decrypt:</h4>
+    <input type="text" id="videouri" placeholder="Video Url">
+    <input type="text" id="audiouri" placeholder="Audio Url">
+    <input type="text" id="key" placeholder="Key">
+    <input type="submit" value="Download" onclick="startProcess()">
+    <h3>The Decrypted file will automatically download once the decryption is done.</h3>
+</body>
+</html>
